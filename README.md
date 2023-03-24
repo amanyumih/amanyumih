@@ -1,10 +1,10 @@
 ### Hi there! I am Amanda! 👋😊
 
+![](https://i.imgur.com/pWHqQVt.png)
+
 - 👩🏼‍💻 I'm just a girl who likes to code sometimes
 - 🔭 I’m currently working on some projects from CS50. 
 - 🌱 I’m currently learning Phyton and improving HTML and CSS. 
-
-![](https://i.imgur.com/pWHqQVt.png)
 
 ### Programming languages and Tools:
 
