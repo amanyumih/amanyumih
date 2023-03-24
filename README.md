@@ -1,3 +1,5 @@
+### Hi there! I'm Amanda! 😊
+
 ![](https://i.imgur.com/ZbTgKDi.png)
 
 - 👩🏼‍💻 I'm just a girl who likes to code sometimes
