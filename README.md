@@ -1,6 +1,6 @@
 ### Hi there! I am Amanda! 👋😊
 
-![](https://i.imgur.com/pWHqQVt.png)
+![](https://i.imgur.com/ZbTgKDi.png)
 
 - 👩🏼‍💻 I'm just a girl who likes to code sometimes
 - 🔭 I’m currently working on some projects from CS50. 
