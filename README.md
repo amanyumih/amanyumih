@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on some projects from CS50. 
 - 🌱 I’m currently learning Phyton and improving HTML and CSS. 
 
+![]([https://www.tabnine.com/blog/wp-content/uploads/2022/03/blog_10-1.png](https://i.imgur.com/pWHqQVt.png))
+
 ### Programming languages and Tools:
 
 ![](https://www.tabnine.com/blog/wp-content/uploads/2022/03/blog_10-1.png)
